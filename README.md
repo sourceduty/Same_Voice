@@ -16,8 +16,6 @@ Overall, Same Voice provides a clear, concise, and focused experience for users 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Audio Analyzer](https://chat.openai.com/g/g-g0Ob3Qbue-audio-analyzer)
-<br>
-[Audio Emulator](https://github.com/sourceduty/Audio_Emulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
